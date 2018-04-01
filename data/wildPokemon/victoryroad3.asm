@@ -1,0 +1,14 @@
+PlateauMons3:
+	db $0F
+	db 40,GEODUDE
+	db 48,GOLBAT
+	db 45,GEODUDE
+	db 52,ONIX
+	db 50,MACHOKE
+	db 45,MACHOKE
+	db 50,HITMONLEE
+	db 50,HITMONCHAN
+	db 54,GRAVELER
+	db 54,GRAVELER
+	db $00
+

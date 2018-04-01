@@ -1,0 +1,14 @@
+DungeonMons1:
+	db $0A
+	db 50,GOLBAT
+	db 52,ARBOK
+	db 45,GRAVELER
+	db 45,KABUTO
+	db 48,KABUTO
+	db 52,SANDSLASH
+	db 54,VENOMOTH
+	db 54,PARASECT
+	db 55,RAICHU
+	db 55,DITTO
+	db $00
+

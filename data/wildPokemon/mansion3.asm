@@ -1,0 +1,14 @@
+MansionMons3:
+	db $0A
+	db 31,KOFFING
+	db 40,RATICATE
+	db 32,GRIMER
+	db 35,KOFFING
+	db 34,MAGMAR
+	db 43,RATICATE
+	db 38,GRIMER
+	db 38,WEEZING
+	db 38,MUK
+	db 41,MUK
+	db $00
+

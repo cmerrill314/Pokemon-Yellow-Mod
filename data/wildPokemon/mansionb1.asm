@@ -1,0 +1,13 @@
+MansionMonsB1:
+	db $0A
+	db 33,KOFFING
+	db 35,GRIMER
+	db 37,RATICATE
+	db 40,RATICATE
+	db 41,MUK
+	db 43,RATICATE
+	db 24,DITTO
+	db 35,KOFFING
+	db 38,MAGMAR
+	db 42,WEEZING
+	db $00

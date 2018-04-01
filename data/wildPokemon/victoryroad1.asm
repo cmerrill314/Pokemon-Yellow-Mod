@@ -1,0 +1,14 @@
+PlateauMons1:
+	db $0F
+	db 35,GEODUDE
+	db 38,GEODUDE
+	db 40,GEODUDE
+	db 42,ZUBAT
+	db 47,ZUBAT
+	db 45,GEODUDE
+	db 48,ONIX
+	db 48,ONIX
+	db 48,HITMONLEE
+	db 54,GRAVELER
+	db $00
+

@@ -1,0 +1,14 @@
+Route25Mons:
+	db $0F
+	db 8,WEEDLE
+	db 12,ODDISH
+	db 12,BELLSPROUT
+	db 9,KAKUNA
+	db 13,PIDGEY
+	db 14,ODDISH
+	db 14,BELLSPROUT
+	db 15,PIDGEY
+	db 13,VENONAT
+	db 17,PIDGEOTTO
+	db $00
+
